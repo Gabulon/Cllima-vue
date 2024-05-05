@@ -1,5 +1,5 @@
 <script setup>
-import Formulario from './components/Formulario.vue';
+import Formulario from './components/Formulario.vue'
 </script>
 
 <template>
