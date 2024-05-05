@@ -4,6 +4,7 @@ import UseClima from './composables/useClima'
 
 const {obtenerClima}= UseClima()
 
+
 </script>
 
 <template>
