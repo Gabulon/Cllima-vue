@@ -1,5 +1,5 @@
 export default function useClima(){
-    const obtenerClima = () =>{
+    const obtenerClima = ({cuidad, pais}) =>{
         console.log("resultado")
     }
 

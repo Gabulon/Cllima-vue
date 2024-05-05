@@ -25,7 +25,7 @@ const consultarClima = () =>{
     return
    }
    error.value=''
-   emit('obtener-clima')
+   emit('obtener-clima',busqueda)
 }
 </script>
 <template>
